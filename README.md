@@ -2,5 +2,5 @@
 
 Introduction :
 
-Welcome to my SQL ZOMATO  portfolio! This repository showcases my skills and experience in working with relational databases, data manipulation, and database design using SQL.
+Welcome to my SQL ZOMATO  portfolio! This repository showcases my skills and experience in working with relational databases, data manipulation, and database design using mySQL.
 
